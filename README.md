@@ -2,12 +2,11 @@
 📚 A list with my bookmarks.
 
 ## Cool Projects
-* Silk - Para desenhar: http://weavesilk.com/
-* Portifólio do Bizarro: https://lhbzr.com/
-* Portifólio do M: http://mattfarley.ca/
-* Python nude: https://github.com/mthbernardes/41_m3u5_nud35 
-* React custom scroll: https://github.com/malte-wessel/react-custom-scrollbars
-* 
+- [Silk - Para desenhar](http://weavesilk.com/)
+- [Portifólio do lhbzr](https://lhbzr.com/)
+- [Portifólio do mth](http://mattfarley.ca/)
+- [Python nude](https://github.com/mthbernardes/41_m3u5_nud35)
+- [React custom scroll](https://github.com/malte-wessel/react-custom-scrollbars)
 
 ## Utility
 - [Icones em geral](https://thenounproject.com/)
